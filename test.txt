@@ -1,1 +1,4 @@
 hello
+"git status" to check if this file is modified
+"git commit -m <message str> test.txt" to commit file
+"git push -u origin master" to push all changes to github repository
